@@ -11,6 +11,8 @@ I am an undergraduate (2022-2026) at Hunan University of Science and Technology 
 
 I will pursue my master's degree (2026–2029) at Xiamen University (Major: Artificial Intelligence), focusing on AI for Network. My advisor is [Prof. Lizhao You](https://youlizhao.github.io/).
 
+I have been following some algorithm competitions such as Kaggle recently, and learning some LLM knowledge in preparation for my internship in the second half of the year.
+
 ***
 # Publications
 * **Zhenyu Tang**, Yuxiang Chen, Jiahong Xiao, Yuanqiang Tang, Tianxiong Liu*, "SVD-Based Efficient Communication Scheme for Heterogeneous Federated Learning", accepter by SecureComm 2025.
