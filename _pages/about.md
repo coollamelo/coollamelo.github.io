@@ -20,6 +20,6 @@ I have been following some algorithm competitions such as Kaggle recently, and l
 
 ***
 # Awards
-* First Prize, Provincial Level, 2024 China Mathematical Contest in Modeling(Zhenyu Tang, Yisong Ouyang, Yihua Yu, Saiyu Liu*)
+* First Prize, Provincial Level, 2024 China Mathematical Contest in Modeling(**Zhenyu Tang**, Yisong Ouyang, Yihua Yu, Saiyu Liu*)
 
 
