@@ -15,3 +15,7 @@ I will pursue my master's degree (2026–2029) at Xiamen University (Major: Arti
 # Publications
 * **Zhenyu Tang**, Yuxiang Chen, Jiahong Xiao, Yuanqiang Tang, Tianxiong Liu*, "SVD-Based Efficient Communication Scheme for Heterogeneous Federated Learning", accepter by SecureComm 2025.
 * Yang Chen, **Zhenyu Tang**, Liming Jiang*, ShaomiaoChen and Jing Liao, "Reinforced attentive graph convolution recurrent networks for multistep traffic flow prediction", In TRANSPORTATION RESEARCH RECORD.
+
+***
+# Project
+
