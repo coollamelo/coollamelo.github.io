@@ -19,3 +19,9 @@ I will pursue my master's degree (2026–2029) at Xiamen University (Major: Arti
 ***
 # Project
 
+
+***
+# Awards
+* First Prize, Provincial Level, 2024 China Mathematical Contest in Modeling(Zhenyu Tang, Yisong Ouyang, Yihua Yu, Saiyu Liu*)
+
+
