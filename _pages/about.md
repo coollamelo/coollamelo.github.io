@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate (2022-2026) at Hunan University of Science and Technology (Major：Software Engineering), focusing on Federated/Split Learning. My advisor is [Prof. Yuxiang Chen](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050147/chinese/index.html).
 
-I will pursue my master's degree (2026–2029) at Xiamen University (Major: Artificial Intelligence), focusing on AI for Network. I work at [Future Network Lab](https://funlab2017.github.io/) with [Prof. Lizhao You](https://youlizhao.github.io/).
+I will pursue my master's degree (2026–2029) at Xiamen University (Major: Artificial Intelligence), focusing on AI for Network. I work at [FunLab](https://funlab2017.github.io/) with [Prof. Lizhao You](https://youlizhao.github.io/).
 
 I have been following some algorithm competitions such as Kaggle recently, and learning some LLM knowledge in preparation for my internship in the second half of the year.
 
