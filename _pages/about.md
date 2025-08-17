@@ -17,10 +17,6 @@ I will pursue my master's degree (2026–2029) at Xiamen University (Major: Arti
 * Yang Chen, **Zhenyu Tang**, Liming Jiang*, ShaomiaoChen and Jing Liao, "Reinforced attentive graph convolution recurrent networks for multistep traffic flow prediction", In TRANSPORTATION RESEARCH RECORD.
 
 ***
-# Project
-
-
-***
 # Awards
 * First Prize, Provincial Level, 2024 China Mathematical Contest in Modeling(Zhenyu Tang, Yisong Ouyang, Yihua Yu, Saiyu Liu*)
 
