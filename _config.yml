@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhenyu Tang / Personal Homepage"
+title                    : "Zhenyu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhenyu Tang"
-description              : &description "He"
+description              : &description ""
 url                      : https://coollamelo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coollamelo/coollamelo.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhenyu Tang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "her" # example: "she/her"  
   bio              : "JUST DO IT"
-  location         : "Earth"
+  location         : "Hunan"
   employer         : 
   uri              : # URL
-  email            : 
+  email            : "tzy418969@gmail.com"
 
   # Academic websites
   academia         : # URL
