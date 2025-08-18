@@ -11,7 +11,7 @@ I am an undergraduate (2022-2026) at Hunan University of Science and Technology 
 
 I will pursue my master's degree (2026–2029) at Xiamen University (Major: Artificial Intelligence), focusing on AI for Network. I work at [FunLab](https://funlab2017.github.io/) with [Prof. Lizhao You](https://youlizhao.github.io/).
 
-I have been following some algorithm competitions such as Kaggle recently, and learning some LLM knowledge in preparation for my internship in the second half of the year.
+I have been following some algorithm competitions such as [Kaggle](https://www.kaggle.com/c/google-code-golf-2025) recently, and learning some LLM knowledge in preparation for my internship in the second half of the year.
 
 ***
 # Publications
