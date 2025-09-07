@@ -16,7 +16,6 @@ I have been following some algorithm competitions such as [Kaggle](https://www.k
 ***
 # Publications
 * **Zhenyu Tang**, Yuxiang Chen, Jiahong Xiao, Yuanqiang Tang, Tianxiong Liu*, "SVD-Based Efficient Communication Scheme for Heterogeneous Federated Learning", accepted by SecureComm 2025.
-* Yang Chen, **Zhenyu Tang**, Liming Jiang*, ShaomiaoChen and Jing Liao, "Reinforced attentive graph convolution recurrent networks for multistep traffic flow prediction", In Transportation Research Record.
 
 ***
 # Awards
