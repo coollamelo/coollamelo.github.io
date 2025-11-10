@@ -9,7 +9,7 @@ tags:
 
 **原文链接：[https://arxiv.org/abs/2507.16438](https://arxiv.org/abs/2507.16438)**
 
-**The PPT: [https://coollamelo/coollamelo.github.io/files/sweet.pdf](https://coollamelo/coollamelo.github.io/files/sweet.pdf)**
+**The PPT: [sweet.pdf](https://coollamelo.github.io/files/sweet.pdf)**
 
 ***
 ## Background
