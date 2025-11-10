@@ -8,6 +8,7 @@ tags:
 ---
 
 **原文链接：[https://arxiv.org/abs/2507.16438](https://arxiv.org/abs/2507.16438)**
+**The PPT: [https://github.com/coollamelo/coollamelo.github.io/files/The Sweet.pdf]**
 
 ***
 ## Background
@@ -47,5 +48,4 @@ tags:
 - 本文通过实验证明了预训练从加密的数据包字段中学习模式是较困难的，应该重点考虑数据包头的信息；
 - 本文提出了一个基于T5的双阶段表示学习结构，通过大量的实验证明了其在流量分类领域的有效性。![image](/images/Blog2.png)
 
-## Approach
 
