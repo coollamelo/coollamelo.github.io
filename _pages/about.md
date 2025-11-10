@@ -13,6 +13,7 @@ I will pursue my master's degree (2026–2029) at Xiamen University (Major: Arti
 
 I have been following some algorithm competitions such as [Kaggle](https://www.kaggle.com/competitions/make-data-count-finding-data-references/overview) recently, and learning some LLM knowledge in preparation for my internship in the second half of the year.
 
+<!--
 ***
 # Publications
 * **Zhenyu Tang**, Yuxiang Chen, Jiahong Xiao, Yuanqiang Tang, Tianxiong Liu*, "SVD-Based Efficient Communication Scheme for Heterogeneous Federated Learning", accepted by SecureComm 2025.
@@ -20,5 +21,5 @@ I have been following some algorithm competitions such as [Kaggle](https://www.k
 ***
 # Awards
 * First Prize, Provincial Level, 2024 China Mathematical Contest in Modeling(**Zhenyu Tang**, Yisong Ouyang, Yihua Yu, Saiyu Liu*)
-
+-->
 
